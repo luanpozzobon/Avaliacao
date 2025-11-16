@@ -1,0 +1,1 @@
+Este projeto implementa um validador de NF-e utilizando uma `Chain of Responsability` para encadear validações!
